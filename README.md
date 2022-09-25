@@ -11,3 +11,14 @@ Hi There!
 
 
 -⚡ Always open to learn new things
+
+---
+
+<div align="center">
+    <h3>
+  💡 Github Stats:
+  </h3>
+  <a href="https://github.com/Thomas470">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thomas470&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thomas470&langs_count=4)](https://github.com/anuraghazra/github-readme-statsCompact&theme=github_dark"/>
+</div>
