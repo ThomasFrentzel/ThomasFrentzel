@@ -22,3 +22,10 @@ Hi There!
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thomas470&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thomas470&langs_count=4)](https://github.com/anuraghazra/github-readme-statsCompact&theme=github_dark"/>
 </div>
+
+---
+<div>
+
+ ![Snake animation](https://github.com/Thomas470/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
