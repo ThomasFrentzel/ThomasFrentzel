@@ -28,6 +28,17 @@ Hi There!
   <img align="center" alt="Python" height="100" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="java" height="100" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   
+ ---
+<summary>
+</summary>
+<a href="https://www.linkedin.com/in/thomas-frentzel-62b7221a6/" target="_blank"><img heigth="50" align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="thomas frentzel" height="30" width="40" /></a>
+ <a href="https://www.instagram.com/thomas__frentzel/" target="_blank"><img align="center" heigth="50"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      alt="thomas_frentzel" height="30" width="40" /></a>
+</details>
+
 
 <p align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=55&section=footer"/>
