@@ -22,15 +22,12 @@ Hi There!
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thomas470&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thomas470&langs_count=4)](https://github.com/anuraghazra/github-readme-statsCompact&theme=github_dark"/>
 </div>
-
----
-
-   Favorite languages:
-  <br/>
  
   <img align="center" alt="Python" height="100" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="java" height="100" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   
   ---
+  
+  
   
 </div>
