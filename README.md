@@ -1,5 +1,9 @@
-
+<h1 align="center">
 Hi There!
+ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h1>
+<h3 align="center">
+  <em>
 
 -🌱 I’m currently learning Phyton and Java
 
@@ -13,16 +17,20 @@ Hi There!
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-
 ##
 
+<div align="center">
+    <h3>
   💡 Github Stats:
   </h3>
-  <a href="https://github.com/Thomas470">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thomas470&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tHomas470&layout=compact&langs_count=7&theme=github_dark"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thomas470&langs_count=4(https://github.com/anuraghazra/githubreadmestatsCompact&theme=github_dark"/>
 </div>
   
+  
+  <img align="center" alt="Python" height="100" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="java" height="100" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+
  
  
  <div>
