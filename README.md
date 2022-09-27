@@ -1,6 +1,7 @@
 <h1 align="center">
 Hi There!
- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+ 😀
 </h1>
 <h3 align="center">
   <em>
@@ -8,13 +9,13 @@ Hi There!
 -🌱 I’m currently learning Phyton and Java
 
 
--🧑‍💻 <a href="https://www.pucpr.br/cursos-graduacao/ciencia-da-computacao/">Computer Science</a> student in <a href="https://www.pucpr.br/">PUCPR</a>(2021-2025)
+-🧑‍💻 Computer Science</a> student in <a href="https://www.pucpr.br/">PUCPR</a>(2021-2025)
 
 
 -⚡ Always open to learn new things
    
    <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"/>
+  <img src="https://media.giphy.com/media/xThuWu82QD3pj4wvEQ/giphy.gif" width="500" height="300"/>
 </div>
 
 ##
@@ -42,9 +43,13 @@ Hi There!
  ##
  
  <div> 
-  <a href="https:///?theme=dark" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:thomasfrentzel96@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thomas-frentzel-62b7221a6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "thomasfrentzel96@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href="https://www.instagram.com/thomas__frentzel/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  
+ 
+ 
+ <div> 
           
                                                                                       
 <p align="center">
