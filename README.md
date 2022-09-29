@@ -15,7 +15,7 @@ Hi There!
 -⚡ Always open to learn new things
    
    <div align="center">
-  <img src="https://media.giphy.com/media/xThuWu82QD3pj4wvEQ/giphy.gif" width="500" height="300"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="300"/>
 </div>
 
 ##
