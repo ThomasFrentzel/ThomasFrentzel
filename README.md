@@ -23,7 +23,15 @@ Hi There!
 <div align="center">
   
   
-  
+ <h3>
+    💡 Github Analytics:
+  </h3>
+  <a href="https://github.com/Thomas470">
+  <img height="140" src="https://github-readme-stats.vercel.app/api?username=Thomas470&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thomas470&layout=compact&langs_count=7&theme=github_dark"/>
+</div>
+   
+ 
 ##
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
