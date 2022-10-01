@@ -35,12 +35,6 @@ Hi There!
   <img height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thomas470&layout=compact&langs_count=7&theme=github_dark"/>
    </div>
  
-##
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-          
-          
  
  <div>
  
