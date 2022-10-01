@@ -14,7 +14,7 @@ Hi There!
 
 -⚡ Always open to learn new things
 
--💻You can find some of my college and personal projects <a href="https://github.com/Projects-Thomas-Frentzel">here
+-💻You can find some of my college  projects <a href="https://github.com/Projects-Thomas-Frentzel">here
 
 
 
