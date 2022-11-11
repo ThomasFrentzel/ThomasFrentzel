@@ -6,7 +6,7 @@ Hi There!
 <h3 align="center">
   <em>
 
--🌱 I’m currently learning Phyton and Java
+-🌱 I’m currently learning Python and Java
 
 
 -🧑‍💻 Computer Science student in <a href="https://www.pucpr.br/">PUCPR</a>(2021-2025)
