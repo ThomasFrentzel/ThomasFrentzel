@@ -6,15 +6,15 @@ Hi There!
 <h3 align="center">
   <em>
 
--🌱 I’m currently learning more about Python and Java
+-🌱 I’m currently learning more about Python and Java.
 
 
--🧑‍💻 Computer Science student in <a href="https://www.pucpr.br/">PUCPR</a>(2021-2024)
+-🧑‍💻 Computer Science student in <a href="https://www.pucpr.br/">PUCPR</a>(2021-2024).
 
 
--⚡ Always open to learn new things
+-⚡ Always open to learn new things.
 
--💻You can find some more projects <a href="https://github.com/Projects-Thomas-Frentzel">here
+-💻You can find some more projects <a href="https://github.com/Projects-Thomas-Frentzel">here.
    
    ##
 
