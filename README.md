@@ -15,6 +15,8 @@ Hi There!
 -⚡ Always open to learn new things
 
 -💻You can find some more projects <a href="https://github.com/Projects-Thomas-Frentzel">here
+   
+   ##
 
    <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="300"/>
