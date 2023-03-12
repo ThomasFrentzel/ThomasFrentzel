@@ -14,7 +14,7 @@ Hi There!
 
 -⚡ Always open to learn new things.
 
--💻You can find some more projects <a href="https://github.com/Projects-Thomas470">here.
+-💻You can find my projects <a href="https://github.com/Projects-Thomas470">here.
    
    ##
 
