@@ -58,7 +58,7 @@ Hi There!
   <a href="https://www.linkedin.com/in/thomas-frentzel-62b7221a6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:thomasfrentzel96@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://www.instagram.com/thomas__frentzel/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href="https://thomas470.github.io/Portifolio-Thomas/" alt="Website">
+   <a href="https://thomas470.github.io/Portfolio-Thomas/" alt="Website">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
   </a>
   
