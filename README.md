@@ -1,9 +1,9 @@
-<h1 align="center">
+<h1>
 Hi There!
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
  😀
 </h1>
-<h3 align="center">
+<h3>
   <em>
 
 -🌱 I’m currently learning more about Python and Java.
@@ -14,11 +14,11 @@ Hi There!
 
 -⚡ Always open to learn new things.
 
--💻You can find my projects <a href="https://github.com/Projects-Thomas470">here.
+-💻You can find all my projects by clicking <a href="https://github.com/Projects-Thomas470">here.
    
    ##
 
-   <div align="center">
+   <div>
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="300"/>
 </div>
 
@@ -26,19 +26,9 @@ Hi There!
    
    ##
 
-<div align="center">
+<div>
   
   
- <h3>
-    💡 Github Analytics:
-  </h3>
-  <a href="https://github.com/Thomas470">
-  <img height="140" src="https://github-readme-stats.vercel.app/api?username=Thomas470&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thomas470&layout=compact&langs_count=7&theme=github_dark"/>
-   </div>
- 
- 
- <div>
   
   ##
   
@@ -67,6 +57,6 @@ Hi There!
  <div> 
           
                                                                                       
-<p align="center">
+<p>
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=55&section=footer"/>
 </p>
