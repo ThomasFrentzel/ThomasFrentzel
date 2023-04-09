@@ -24,7 +24,6 @@ Hi There!
 
 </div>
    
-   ##
 
 <div>
   
