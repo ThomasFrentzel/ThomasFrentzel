@@ -12,9 +12,9 @@ Hi There!
 -🧑‍💻 Computer Science student in <a href="https://www.pucpr.br/">PUCPR</a>(2021-2024).
 
 
--⚡ Always open to learn new things.
+-⚡ 
 
--💻You can find all my projects by clicking <a href="https://github.com/Projects-Thomas470">here.
+-💻
    
    ##
 
