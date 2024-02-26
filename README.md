@@ -6,7 +6,7 @@ Hi There!
 <h3>
   <em>
 
--🌱 I’m currently learning more about Python and Java.
+-🌱 
 
 
 -🧑‍💻 Computer Science student in <a href="https://www.pucpr.br/">PUCPR</a>(2021-2024).
@@ -46,9 +46,6 @@ Hi There!
  <div> 
   <a href="https://www.linkedin.com/in/thomas-frentzel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:thomasfrentzel96@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   <a href="https://www.instagram.com/thomas__frentzel/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href="https://thomas470.github.io/Portfolio-Thomas/" alt="Website">
-    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
   </a>
   
  
