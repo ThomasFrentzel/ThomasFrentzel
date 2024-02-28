@@ -1,4 +1,4 @@
-## Thomas Frentzel
+### Thomas Frentzel
 
 - 🧑‍💻 Java | Python | SQL Developer.
 - 📚 4th year computer science student at <a href="https://www.pucpr.br/">PUCPR</a> (2021-2024).
@@ -6,14 +6,14 @@
 
 ##
 
-### _Github analytics_:
+### Github analytics:
 <div>
   <a href="https://github.com/Thomas470">
 <img height="120" src="https://github-readme-stats.vercel.app/api?username=Thomas470&show_icons=true&theme=github_dark"&include_all_commits=true&count_private=true"/>
 <img height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thomas470&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
   
-### _Tech Stack_:
+### Tech Stack:
 
 <div>
   
@@ -38,7 +38,7 @@
 
 ##
  
-### _Contact me_:
+### Contact me:
  
  <div> 
   <div> 
