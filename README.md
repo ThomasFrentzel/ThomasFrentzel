@@ -1,4 +1,4 @@
-## _Thomas Frentzel_
+## Thomas Frentzel
 
 - 🧑‍💻 Java | Python | SQL Developer.
 - 📚 4th year computer science student at <a href="https://www.pucpr.br/">PUCPR</a> (2021-2024).
