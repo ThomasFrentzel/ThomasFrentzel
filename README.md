@@ -17,7 +17,7 @@
    </a>
 
   
-### Tech Stack:
+### Skills:
 
 <div>
   
