@@ -25,6 +25,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
+  <img width="12" />
   <img src="https://icon.icepanel.io/Technology/svg/Apache-Hadoop.svg" height="40" alt="Hadoop logo" />
   <img width="12" />
   <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_spark_logo_icon_170560.png" height="40" alt="Spark logo" />
