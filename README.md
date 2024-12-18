@@ -72,7 +72,7 @@
   </a>
   <img width="12" />
   <a href="https://git-scm.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=git" height="40" alt=" git logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"" height="40" alt=" git logo" />
   </a>
   <img width="12" />
   <a href="https://www.jenkins.io/" target="_blank">
