@@ -12,11 +12,11 @@
 
 <div align="left">
   <a href="https://www.java.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
   </a>
   <img width="12" />
   <a href="https://www.python.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   </a>
   <img width="12" />
   <a href="https://www.mysql.com/" target="_blank">
