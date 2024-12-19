@@ -23,15 +23,15 @@
     <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" />
   </a>
   <img width="12" />
-  <a href="https://www.microsoft.com/en-us/sql-server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo" />
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="40" alt="microsoftsqlserver logo" />
   </a>
   <img width="12" />
   <a href="https://www.php.net/" target="_blank">
     <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo" />
   </a>
   <img width="12" />
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />
   </a>
   <img width="12" />
@@ -61,6 +61,10 @@
   <img width="12" />
   <a href="https://www.tensorflow.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo" />
+  </a>
+  <img width="12" />
+  <a href="https://scikit-learn.org/"target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="scikit-learn logo" />
   </a>
   <img width="12" />
   <a href="https://hadoop.apache.org/" target="_blank">
