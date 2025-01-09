@@ -1,9 +1,9 @@
 <h1 align="center">Thomas Frentzel
-<h3 align="center">Software Engineer | Computer Scientist</h3>
+<h3 align="center">Computer Scientist | Software Engineer</h3>
 
 
 - 🔍 Problem Solver.
-- 🧑‍💻 Back-END | A.I. & M.L.
+- 🧑‍💻 Full-Stack | A.I. & M.L.
 - 📫 thomasfrentzel@96gmail.com
 
 ##
