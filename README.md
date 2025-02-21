@@ -96,7 +96,7 @@
   </a>
   <img width="12" />
   <a href="https://spark.apache.org/" target="_blank">
-    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_spark_logo_icon_170560.png" height="40" alt="Spark logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" height="40" alt="Spark logo" />
   </a>
   <img width="12" />
   <a href="https://www.mysql.com/" target="_blank">
@@ -128,7 +128,7 @@
   </a>
   <img width="12" />
   <a href="https://www.jenkins.io/" target="_blank">
-    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/jenkins_logo_icon_170552.png" height="40" alt="Jenkins logo" />
+    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" height="40" alt="Jenkins logo" />
   </a>
   <img width="12" />
   <a href="https://www.kernel.org/" target="_blank">
