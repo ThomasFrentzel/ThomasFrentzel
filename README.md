@@ -4,7 +4,7 @@
 
 - 🔍 Problem Solver.
 - 🧑‍💻 Full-Stack | A.I. & M.L.
-- 📫 thomasfrentzel@96gmail.com
+- 📫 thomasfrentzel@outlook.com
 
 ##
 
