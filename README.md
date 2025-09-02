@@ -1,5 +1,5 @@
 <h1 align="center">Thomas Frentzel
-<h3 align="center">Computer Scientist | Software Engineer</h3>
+<h3 align="center">AI Engineering M.Sc. Student | Computer Scientist </h3>
 
 
 - 🔍 Problem Solver.
